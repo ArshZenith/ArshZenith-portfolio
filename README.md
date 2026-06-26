@@ -1,85 +1,126 @@
 # ⚡ ARSH ZENITH
 
-> *Building the future through AI, code, and creativity.*
+> ### *Building the Future through AI, Code & Creativity.*
+
+🌐 **Live Portfolio**  
+https://arshzenith.github.io/ArshZenith-portfolio/
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/arsh-zenith-1518ba418
+
+🖤 **BLACK THREAD (Webtoon)**  
+https://www.webtoons.com/en/canvas/t-h-e-b-l-a-c-k-t-h-r-e-a-d/list?title_no=1151266
+
+🤖 **GitHub**  
+https://github.com/ArshZenith
 
 ---
 
-## 👋 Who Am I?
+# 🚀 Overview
 
-I'm **Arsh Zenith**, a self-taught developer, AI builder, and creator.
+Welcome to my official portfolio repository.
 
-I don't just write code—I build products, design experiences, and create stories.
+This portfolio represents my journey as a **self-taught developer**, **AI builder**, and **creative storyteller**.
 
-My work combines **Artificial Intelligence**, **modern web development**, and **creative storytelling** into projects that are built to stand out.
+It showcases my work in Artificial Intelligence, premium web development, UI/UX design, and original creative projects.
 
----
-
-## 🚀 What You'll Find Here
-
-🤖 **AI Development**
-- Intelligent Assistants
-- Automation Systems
-- Productivity Tools
-
-🌐 **Web Development**
-- Premium Portfolio Websites
-- Responsive Interfaces
-- Modern UI/UX
-
-🖤 **Creative Projects**
-- Original Manga
-- World Building
-- Storytelling
+> **"Great ideas deserve exceptional execution."**
 
 ---
 
-## 🌟 Featured Projects
+# 👨‍💻 About Me
 
-### 🤖 AI BUTLER
-A production-grade AI assistant focused on productivity, intelligent workflows, and real-world problem solving.
+I'm **Arsh Zenith**, a passionate self-taught developer from India.
 
-### 🌐 ArshZenith Portfolio
-A premium futuristic portfolio built with smooth animations, responsive design, and a focus on performance.
+I enjoy building products that combine technology, creativity, and meaningful user experiences.
 
-### 🖤 BLACK THREAD
-An original psychological dark fantasy manga exploring mystery, fear, and the unseen threads connecting reality.
+My goal is simple:
 
----
-
-## 🛠 Tech Stack
-
-HTML • CSS • JavaScript • Git • GitHub • AI Development • UI/UX Design
+> **Build products people remember.**
 
 ---
 
-## 🎯 My Philosophy
+# ✨ Featured Projects
 
-> **"Ideas are cheap. Execution creates impact."**
+## 🤖 AI BUTLER
 
-I believe consistency beats talent, curiosity beats comfort, and every project should leave people saying:
-
-**"How did one person build this?"**
+A production-grade AI assistant built to improve productivity through intelligent workflows and modern AI experiences.
 
 ---
 
-## 🌍 Current Mission
+## 🌐 Personal Portfolio
 
-Building products that solve problems.
+A futuristic portfolio featuring premium UI, smooth animations, responsive layouts, and modern design principles.
 
-Creating stories that stay with people.
+**🔗 Live Website**
 
-Learning every single day.
-
----
-
-### 📫 Connect
-
-- 💼 LinkedIn → https://www.linkedin.com/in/arsh-zenith-1518ba418
-- 🖤 BLACK THREAD → https://www.webtoons.com/en/canvas/t-h-e-b-l-a-c-k-t-h-r-e-a-d/list?title_no=1151266
-- 🤖 GitHub → https://github.com/ArshZenith
-- 📧 arsh.zenith7@gmail.com
+https://arshzenith.github.io/ArshZenith-portfolio/
 
 ---
 
-# ⭐ Thanks for visiting.
-### **Dream. Build. Ship. Repeat.**
+## 🖤 BLACK THREAD
+
+An original Psychological Dark Fantasy Manga available on Webtoon.
+
+https://www.webtoons.com/en/canvas/t-h-e-b-l-a-c-k-t-h-r-e-a-d/list?title_no=1151266
+
+---
+
+# 🛠 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- Responsive Design
+- Artificial Intelligence
+- UI / UX
+
+---
+
+# 🌍 Vision
+
+Technology should solve problems.
+
+Design should create experiences.
+
+Stories should inspire people.
+
+That's exactly what I'm working toward every single day.
+
+---
+
+# 📬 Contact
+
+📧 Email
+
+arsh.zenith7@gmail.com
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/arsh-zenith-1518ba418
+
+🌐 Live Portfolio
+
+https://arshzenith.github.io/ArshZenith-portfolio/
+
+🤖 GitHub
+
+https://github.com/ArshZenith
+
+---
+
+# ⭐ Support
+
+If you enjoyed this project, consider giving this repository a ⭐.
+
+It motivates me to build even better products.
+
+---
+
+# ⚡
+
+### Dream. Build. Ship. Repeat.
+
+**Made with ❤️ by Arsh Zenith**
